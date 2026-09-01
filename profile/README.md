@@ -1,0 +1,11 @@
+## Hi there we're KIFF-II 👋
+- We are KIFF-II
+- KIFF stands for the KEEP IT FREE FOUNDATION
+- KIFF Believes the only way to AVOID what's coming is to ensure that everything KIFF works on is FREE and available to ALL.
+- KIFF's Organization only hosts GPL Code.
+- KIFF is looking for FUNDING.
+- Once FUNDING is ensured, we'll start releasing CODE, GPL'ed in this Organization.
+- KIFF is a set of COLLECTIVES. We're working on KIFF-CODE first as its where our EXPERTISE lies.
+- KIFF's board has no idea what they are doing.
+- But you can find our open collective here: https://opencollective.com/kiff-ii-code
+- Checkout our FIRST, soon to be open sourced as GPL project about breaking GroupThink using Cloudflare Vectorize, [Trinity Nexus](https://trinity.nexus).
