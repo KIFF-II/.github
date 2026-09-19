@@ -1,34 +1,70 @@
 # Hi there we're KIFF-II 👋
+We are KIFF-II, we might seem crazy, but give this a read and be patient as we get setup.
 
 ## What is KIFF-II
-- We are KIFF-II
-- KIFF stands for the KEEP IT FREE FOUNDATION
-- KIFF also stands for KEEP IT FREE FOREVER.
+A group of like minded individuals working for the goals of KIFF. 
 
-## What about the II
+## Goals of KIFF
+The goals of KIFF are easily understood, by expanding it's name a few times:
+
+- KIFF means Knowledge is Free Forever
+- KIFF means KEEP IT FREE FOUNDATION.
+- KIFF means KEEP IT FREE FOREVER.
+- KIFF means KIFF IS FREE FOREVER.
+- Etc.
+
+Therefore our goals are:
+- Free Stuff, especially knowledge
+- Forever
+- Open Governance
+
+### What about the II
 - II means.. Uh 2, I guess. KIFF without it was taken.
 - II means, ICE CREAM ICE CREAM, there you go.
 
-## KIFF's Beliefs
-- KIFF Believes the only way to improve the world is to share cool stuff it finds and to KEEP IT FREE FOREVER.
-- KIFF only hosts GPL Code.
-- KIFF only works with ASSETS licensed under CC-BY-SA-NC.
-- KIFF doesn't want our ideas hidden behind NDAs and Intellectual Property Rights
-- KIFF ideas are Kept Free Forever, by choosing very strict licenses.
+## KIFF's Philosophy
+- Share Free Stuff
+- Keep it Free Forever
+- Do not break [Wheaton's Law](https://knowyourmeme.com/memes/wheatons-law)
 
 ## Governance
-- KIFF is a set of COLLECTIVES on OpenCollective
-- But you can find our open collective here
-- We're working on more GOVERNANCE docs.
+- KIFF is aiming to be a set of COLLECTIVES on OpenCollective
+- We're working on more GOVERNANCE docs, but GOVERNANCE must be OPEN.
 - We have no idea what we're doing.
 
-## [KIFF CODE](https://opencollective.com/kiff-ii-code)
+### General Structure/Goals
+Listed here are the different "departments" of KIFF. These will probably be separate Collectives if this crazy idea actually works.
 
-- KIFF Code is our collective for Code, that's any programming language any project.
-- Its the first collective because that's where it's EXPERTISE lies.
+1. KIFF-II-CODE
+  - KIFF only hosts GPL Code.
+  - Never Closed Source.
+1. KIFF-II-ARTS
+  - KIFF only works with ASSETS licensed under CC-BY-SA-NC.
+  - KIFF Commissions Artists to create Art if its members are unable to or do not have time to create assets.
+  - KIFF Pays Real $ at fair market to Artists out of KIFF Collective Funds
+  - KIFF maintains credits for all assets, linking to the artists bio etc. To give back the love.
+  - KIFF wants to make the first ARTS project Branding. With FUNDING, we'd pay an Artist to make KIFF Shine.
+2. KIFF-II-IDEAS
+  - Still unsure on the naming here.
+  - Basically anything non-code
+  - Books, blogs, Articles, ideas, Videos
+  - CC-BY-SA-NC
+3. KIFF-II-RESEARCH
+  - Scientific papers and research
+  - Leverage CODE & COMMONS ideas
+4. KIFF-II-PHILANTROPY
+  - Charitable and Philanthropic efforts
+  - Carve up a portion of the funds to give back to the community
 
-### FUNDING
-- KIFF-II-Code is looking for funding.
+## FUNDING
+- KIFF-II is looking for funding.
+- We understand that this is a crazy idea though.
+- We're looking to build this slowly and without much fuss.
+
+## AI
+- KIFF does not use Generative AI for Art.
+- KIFF does use AI, but follows a [policy](https://github.com/BasisVR/Basis/blob/developer/AI.md)
+- ATTESTATION of your tools is expected.
 
 ## Projects
 
@@ -51,21 +87,3 @@ Read more on its [website](https://trinity.nexus)
   - D1
   - Vectorize
 - HTML & JS
-
-## Future Collectives
-
-Ideas for the future:
-1. KIFF-II-ARTS
-  - Pay Artists $$$$$ to work on Art projects
-  - Release the assets as CC-BY-SA-NC, with attribution to the Original Artist
-  - Whenever another collective needs art or assets, we use ARTS to comission and pay a REAL Artist.
-  - We share the love back, by highlighting their work in our projects and encouraging others to commission
-2. KIFF-II-COMMONS
-  - Still unsure on the naming here.
-  - Basically anything non-code
-  - Books, blogs, Articles
-3. KIFF-II-RESEARCH
-  - Scientific papers and research
-  - Leverage CODE & COMMONS ideas
-4. KIFF-II-PHILANTROPY
-  - Charitable and Philanthropic efforts
