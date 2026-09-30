@@ -1,10 +1,12 @@
-# Hi there we're KIFF 👋
-We are KIFF-II, we might seem crazy, but give this a read and be patient as we get setup.
+# Hi there we're [KIFF](https://opencollective.com/kiff) 👋
+We are KIFF, we might seem crazy, but:
+1. We're starting up
+2. We don't know what we're doing
 
-## What is KIFF
+## What is [KIFF](https://opencollective.com/kiff)
 A group of like minded individuals working for the goals of KIFF. 
 
-## Goals of KIFF
+## Goals of [KIFF](https://opencollective.com/kiff)
 The goals of KIFF are easily understood, by expanding it's name a few times:
 
 - KIFF means Knowledge is Free Forever
@@ -14,48 +16,63 @@ The goals of KIFF are easily understood, by expanding it's name a few times:
 - Etc.
 
 Therefore our goals are:
-- Free Stuff, especially knowledge
-- Forever
-- With the added goal of Open Governance
+1. Share & Work on Free Stuff
+2. Keep it Free Forever(KIFF)
+3. With Open Governance, to maintain the first two Goals
 
 ### What about the II
-- On some platforms KIFF was taken so we added II, it meeans 2...
+- On some platforms [KIFF](https://opencollective.com/kiff) was taken so we added II, it means 2...
 - Or II means, ICE CREAM ICE CREAM, there you go.
 - Whatever you want!
 
-## KIFF's Philosophy
-- Share Free Stuff
-- Keep it Free Forever
+## [KIFF](https://opencollective.com/kiff)'s Philosophy
+- Share & Work on Free Stuff
+- Keep it Free Forever (KIFF)
+
+### Guidelines
 - Do not break [Wheaton's Law](https://knowyourmeme.com/memes/wheatons-law)
+- Align to, [Open Collective's Guidelines](https://documentation.opencollective.com/our-organization/our-community-guidelines)
 
 ## Governance
-- KIFF is aiming to be a set of COLLECTIVES on OpenCollective
-- We're working on more GOVERNANCE docs, but GOVERNANCE must be OPEN.
+- KIFF is aiming to be a a [collective](https://opencollective.com/kiff).
+- We're working on more GOVERNANCE docs, and structure
 - We have no idea what we're doing.
 
-### General Structure/Goals
-Listed here are the different "departments" of KIFF. These will probably be separate Collectives or websites if this crazy idea actually works.
+### General Structure
+Listed here are the different "departments" or "Initiatives" of KIFF. These might grow into separate collectives given enough time.
 
 1. KIFF-CODE
-  - KIFF only hosts GPL Code.
-  - Never Closed Source.
+  - KIFF only hosts Open Source Code
+  - Any License approved by [OSI](https://opensource.org/)
+  - Preferred Licenses:
+     - AGPL - 🤩
+     - GPL - 😃
+     - LGPL - 😀
+     - APACHE - 😄
+     - MIT - 🙂
 1. KIFF-ARTS
-  - KIFF only works with ASSETS licensed under CC-BY-SA-NC.
-  - KIFF Commissions Artists to create Art if its members are unable to or do not have time to create assets.
-  - KIFF Pays Real $ at fair market to Artists out of KIFF Collective Funds
-  - KIFF maintains credits for all assets, linking to the artists bio etc. To give back the love.
-  - KIFF wants to make the first ARTS project Branding. With FUNDING, we'd pay an Artist to make KIFF Shine.
+  - KIFF only works with ASSETS licensed under Creative Commons or similar licenses, Ordered in preference:
+    - CC-BY-SA-NC - Keep it Free Forever, and you can't sell it and if you use it you have to share it. 
+    - CC-BY-SA - Keep it Free Forever, but you can sell it and if you use it you have to share it alike.
+    - CC-BY 
+  - KIFF **Commissions Artists** to create Art whenever possible.
+  - KIFF Pays Real $ at fair market to Artists out of [KIFF Collective Funds](https://opencollective.com/kiff).
+  - KIFF also applies attribution to all artists.
+  - KIFF is looking to start ARTS with a BRANDING project, we have some ideas. This is likely to be our first paid project.
 2. KIFF-IDEAS
   - Still unsure on the naming here.
   - Basically anything non-code
   - Books, blogs, Articles, ideas, Videos
-  - CC-BY-SA-NC
+  - Leverage CODE & IDEAS ideas
+  - Leverage CODE & IDEAS Licensing
 3. KIFF-RESEARCH
   - Scientific papers and research
-  - Leverage CODE & COMMONS ideas
+  - Leverage CODE & IDEAS ideas
+  - Leverage CODE & IDEAS Licensing
 4. KIFF-PHILANTROPY
   - Charitable and Philanthropic efforts
-  - Carve up a portion of the funds to give back to the community
+  - Carve up a portion of the funds that are spare to give back to community projects
+  - More free form, we sponsor projects we like that share our vision etc.
 
 ## FUNDING
 - KIFF is looking for funding.
