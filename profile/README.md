@@ -1,4 +1,4 @@
-# Hi there we're KIFF-II 👋
+# Hi there we're KIFF 👋
 We are KIFF-II, we might seem crazy, but give this a read and be patient as we get setup.
 
 ## What is KIFF
