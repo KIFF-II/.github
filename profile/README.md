@@ -1,7 +1,7 @@
 # Hi there we're KIFF-II 👋
 We are KIFF-II, we might seem crazy, but give this a read and be patient as we get setup.
 
-## What is KIFF-II
+## What is KIFF
 A group of like minded individuals working for the goals of KIFF. 
 
 ## Goals of KIFF
