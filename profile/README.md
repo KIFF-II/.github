@@ -16,11 +16,12 @@ The goals of KIFF are easily understood, by expanding it's name a few times:
 Therefore our goals are:
 - Free Stuff, especially knowledge
 - Forever
-- Open Governance
+- With the added goal of Open Governance
 
 ### What about the II
-- II means.. Uh 2, I guess. KIFF without it was taken.
-- II means, ICE CREAM ICE CREAM, there you go.
+- On some platforms KIFF was taken so we added II, it meeans 2...
+- Or II means, ICE CREAM ICE CREAM, there you go.
+- Whatever you want!
 
 ## KIFF's Philosophy
 - Share Free Stuff
@@ -33,33 +34,34 @@ Therefore our goals are:
 - We have no idea what we're doing.
 
 ### General Structure/Goals
-Listed here are the different "departments" of KIFF. These will probably be separate Collectives if this crazy idea actually works.
+Listed here are the different "departments" of KIFF. These will probably be separate Collectives or websites if this crazy idea actually works.
 
-1. KIFF-II-CODE
+1. KIFF-CODE
   - KIFF only hosts GPL Code.
   - Never Closed Source.
-1. KIFF-II-ARTS
+1. KIFF-ARTS
   - KIFF only works with ASSETS licensed under CC-BY-SA-NC.
   - KIFF Commissions Artists to create Art if its members are unable to or do not have time to create assets.
   - KIFF Pays Real $ at fair market to Artists out of KIFF Collective Funds
   - KIFF maintains credits for all assets, linking to the artists bio etc. To give back the love.
   - KIFF wants to make the first ARTS project Branding. With FUNDING, we'd pay an Artist to make KIFF Shine.
-2. KIFF-II-IDEAS
+2. KIFF-IDEAS
   - Still unsure on the naming here.
   - Basically anything non-code
   - Books, blogs, Articles, ideas, Videos
   - CC-BY-SA-NC
-3. KIFF-II-RESEARCH
+3. KIFF-RESEARCH
   - Scientific papers and research
   - Leverage CODE & COMMONS ideas
-4. KIFF-II-PHILANTROPY
+4. KIFF-PHILANTROPY
   - Charitable and Philanthropic efforts
   - Carve up a portion of the funds to give back to the community
 
 ## FUNDING
-- KIFF-II is looking for funding.
-- We understand that this is a crazy idea though.
-- We're looking to build this slowly and without much fuss.
+- KIFF is looking for funding.
+- KIFF has no idea how to get Funding
+- However, we're looking to build this slowly and without much fuss, so if it takes time it takes time.
+- After all, we don't know what we're doing.
 
 ## AI
 - KIFF does not use Generative AI for Art.
