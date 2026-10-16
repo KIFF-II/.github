@@ -7,7 +7,7 @@ We are KIFF, we might seem crazy, but:
 A group of like minded individuals working for the goals of KIFF. 
 
 ## Goals of [KIFF](https://opencollective.com/kiff)
-The goals of KIFF are easily understood, by expanding it's name a few times:
+The goals of KIFF are easily understood, by understanding it's name, which is a play on abbreviations
 
 - KIFF means Knowledge is Free Forever
 - KIFF means KEEP IT FREE FOUNDATION.
@@ -23,19 +23,18 @@ Therefore our goals are:
 ### What about the II
 - On some platforms [KIFF](https://opencollective.com/kiff) was taken so we added II, it means 2...
 - Or II means, ICE CREAM ICE CREAM, there you go.
-- Whatever you want!
+- Whatever you want, really.
 
 ## [KIFF](https://opencollective.com/kiff)'s Philosophy
 - Share & Work on Free Stuff
 - Keep it Free Forever (KIFF)
 
-### Guidelines
-- Do not break [Wheaton's Law](https://knowyourmeme.com/memes/wheatons-law)
+### Community Guidelines
 - Align to, [Open Collective's Guidelines](https://documentation.opencollective.com/our-organization/our-community-guidelines)
 
 ## Governance
 - KIFF is aiming to be a a [collective](https://opencollective.com/kiff).
-- We're working on more GOVERNANCE docs, and structure
+- We're working on more Open governance docs, and structure
 - We have no idea what we're doing.
 
 ### General Structure
@@ -44,46 +43,32 @@ Listed here are the different "departments" or "Initiatives" of KIFF. These migh
 1. KIFF-CODE
   - KIFF only hosts Open Source Code
   - Any License approved by [OSI](https://opensource.org/)
-  - Preferred Licenses:
-     - AGPL - 🤩
-     - GPL - 😃
-     - LGPL - 😀
-     - APACHE - 😄
-     - MIT - 🙂
 1. KIFF-ARTS
-  - KIFF only works with ASSETS licensed under Creative Commons or similar licenses, Ordered in preference:
-    - CC-BY-SA-NC - Keep it Free Forever, and you can't sell it and if you use it you have to share it. 
-    - CC-BY-SA - Keep it Free Forever, but you can sell it and if you use it you have to share it alike.
-    - CC-BY 
+  - KIFF only works with Assets & Art licensed under Creative Commons or similar licenses.
   - KIFF **Commissions Artists** to create Art whenever possible.
   - KIFF Pays Real $ at fair market to Artists out of [KIFF Collective Funds](https://opencollective.com/kiff).
   - KIFF also applies attribution to all artists.
-  - KIFF is looking to start ARTS with a BRANDING project, we have some ideas. This is likely to be our first paid project.
+  - KIFF is looking to start arts with a BRANDING project, we have some ideas. This is likely to be our first paid project.
 2. KIFF-IDEAS
   - Still unsure on the naming here.
   - Basically anything non-code
   - Books, blogs, Articles, ideas, Videos
-  - Leverage CODE & IDEAS ideas
-  - Leverage CODE & IDEAS Licensing
 3. KIFF-RESEARCH
   - Scientific papers and research
-  - Leverage CODE & IDEAS ideas
-  - Leverage CODE & IDEAS Licensing
 4. KIFF-PHILANTROPY
   - Charitable and Philanthropic efforts
   - Carve up a portion of the funds that are spare to give back to community projects
   - More free form, we sponsor projects we like that share our vision etc.
 
 ## FUNDING
-- KIFF is looking for funding.
-- KIFF has no idea how to get Funding
+- [KIFF Collective Funds](https://opencollective.com/kiff)
 - However, we're looking to build this slowly and without much fuss, so if it takes time it takes time.
 - After all, we don't know what we're doing.
 
 ## AI
 - KIFF does not use Generative AI for Art.
 - KIFF does use AI, but follows a [policy](https://github.com/BasisVR/Basis/blob/developer/AI.md)
-- ATTESTATION of your tools is expected.
+- Attestation of the tools you use is expected.
 
 ## Projects
 
