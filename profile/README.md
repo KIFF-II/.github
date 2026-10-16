@@ -1,7 +1,8 @@
 # Hi there we're [KIFF](https://opencollective.com/kiff) 👋
 We are KIFF, we might seem crazy, but:
-1. We're starting up
-2. We don't know what we're doing
+1. We're starting up.
+2. We don't want to make a fuss.
+3. We don't know what we're doing.
 
 ## What is [KIFF](https://opencollective.com/kiff)
 A group of like minded individuals working for the goals of KIFF. 
@@ -41,29 +42,29 @@ Therefore our goals are:
 Listed here are the different "departments" or "Initiatives" of KIFF. These might grow into separate collectives given enough time.
 
 1. KIFF-CODE
-  - KIFF only hosts Open Source Code
-  - Any License approved by [OSI](https://opensource.org/)
+    - KIFF only hosts Open Source Code
+    - Any License approved by [OSI](https://opensource.org/)
 1. KIFF-ARTS
-  - KIFF only works with Assets & Art licensed under Creative Commons or similar licenses.
-  - KIFF **Commissions Artists** to create Art whenever possible.
-  - KIFF Pays Real $ at fair market to Artists out of [KIFF Collective Funds](https://opencollective.com/kiff).
-  - KIFF also applies attribution to all artists.
-  - KIFF is looking to start arts with a BRANDING project, we have some ideas. This is likely to be our first paid project.
+    - KIFF only works with Assets & Art licensed under Creative Commons or similar licenses.
+    - KIFF **Commissions Artists** to create Art whenever possible.
+    - KIFF Pays Real $ at fair market to Artists out of [KIFF Collective Funds](https://opencollective.com/kiff).
+    - KIFF also applies attribution to all artists.
+    - KIFF is looking to start arts with a BRANDING project, we have some ideas. This is likely to be our first paid project.
 2. KIFF-IDEAS
-  - Still unsure on the naming here.
-  - Basically anything non-code
-  - Books, blogs, Articles, ideas, Videos
+    - Still unsure on the naming here.
+    - Basically anything non-code
+    - Books, blogs, Articles, ideas, Videos
 3. KIFF-RESEARCH
-  - Scientific papers and research
+    - Scientific papers and research
 4. KIFF-PHILANTROPY
-  - Charitable and Philanthropic efforts
-  - Carve up a portion of the funds that are spare to give back to community projects
-  - More free form, we sponsor projects we like that share our vision etc.
+    - Charitable and Philanthropic efforts
+    - Carve up a portion of the funds that are spare to give back to community projects
+    - More free form, we sponsor projects we like that share our vision etc.
 
 ## FUNDING
-- [KIFF Collective Funds](https://opencollective.com/kiff)
-- However, we're looking to build this slowly and without much fuss, so if it takes time it takes time.
-- After all, we don't know what we're doing.
+  - [KIFF Collective Funds](https://opencollective.com/kiff)
+  - However, we're looking to build this slowly and without much fuss, so if it takes time it takes time.
+  - After all, we don't know what we're doing.
 
 ## AI
 - KIFF does not use Generative AI for Art.
